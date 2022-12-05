@@ -10,4 +10,4 @@ NIM : 2041720104
 
 ## Screenshots
 
-![Hasil Praktikum](assets/screenshots/)
+![Hasil Praktikum](assets/screenshots/ss_1.png)
